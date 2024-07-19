@@ -319,7 +319,7 @@ entries:
     version: 3.1.21
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2024-07-19T20:48:49.520577048Z"
+    created: "2024-06-18T16:42:52.819322607-07:00"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: 3b4235b81c721aecf0792035930cebb1516859e69fd305c6af20ce8fbc9e4916
@@ -362,7 +362,7 @@ entries:
     version: 3.1.20
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2024-07-19T20:48:49.519598442Z"
+    created: "2024-06-03T04:21:40.341564632Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: 89f4d266f920151228b87beb1dfd4313820d691d429c5b717daf0d1852b9da4a
@@ -405,7 +405,7 @@ entries:
     version: 3.1.19
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2024-07-19T20:48:49.518615036Z"
+    created: "2024-04-25T17:18:22.4531718Z"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
     digest: 85db6a756d9cd4909e60d1baa4883ce6c6123d51bbb1789adfae95ab43d2f1b7
